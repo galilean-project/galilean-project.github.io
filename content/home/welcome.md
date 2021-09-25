@@ -12,7 +12,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: coders.jpg
+    # image: coders.jpg
 ---
 
 <br>
