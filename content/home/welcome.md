@@ -16,4 +16,4 @@ design:
 
 <br>
 
-The **GALILEAN** project partially funded by  the LIRIS lab, experiments multirole-capable decision-making systems across a broad range of DS workflows working on graphs through an agile, autonomous, composable, and resilient "Just-in-Time Architecture" for DS Pipelines.
+The project experiments multirole-capable decision-making systems across a broad range of DS workflows working on graphs through an agile, autonomous, composable, and resilient "Just-in-Time Architecture" for DS Pipelines.
