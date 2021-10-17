@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Executing Graph Data Science Workflows on Disaggregated Data Centres
 subtitle:
 
 content:
