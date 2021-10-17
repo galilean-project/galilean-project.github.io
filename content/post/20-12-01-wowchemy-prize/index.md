@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: GALILEAN proposal accepted as inter-group project at LIRIS
+date: 2020-11-11
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to the Galilean team: Genoveva Vargas-Solar Database group, Hamamache Kheddouci GOAL group, Ali Akoglu U. Arizona and José Luis Zechinelli LNS-UDLAP.
 
 <!--more-->
 
