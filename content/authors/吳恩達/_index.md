@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Hamamache Kheddouci
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Université Claude Bernard Lyon 1
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include graph analytics, artificial intelligence and data science.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Graph Analytics
+- Data Science
 
 education:
   courses:
