@@ -3,8 +3,8 @@ widget: hero
 headless: true
 weight: 10
 title: |
-  Wowchemy  
-  Research Group
+  GALILEAN:
+  Graph analytics workflows enactment on just in time data centres 
 hero_media: welcome.jpg
 widget_id: blabla
 design:
@@ -17,4 +17,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **GALILEAN** project partially funded by  the LIRIS lab, experiments multirole-capable decision-making systems across a broad range of DS workflows working on graphs through an agile, autonomous, composable, and resilient "Just-in-Time Architecture" for DS Pipelines.
