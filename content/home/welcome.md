@@ -3,8 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: |
-  GALILEAN:
-  Graph analytics workflows enactment on just in time data centres 
+  GALILEAN 
 hero_media: welcome.jpg
 widget_id: blabla
 design:
