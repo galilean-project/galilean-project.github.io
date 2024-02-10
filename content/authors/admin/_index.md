@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Genoveva Vargas-Solar is a senior scientist of the French Council of Scientific Research (CNRS) and a member of the DataBase group of the Laboratory on Informatics on Image and Information Systems (LIRIS). She is a regular Mexican Academia of Computing (AMEXCOMP) member.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She obtained her “Habilitation à Diriger des Recherches“ in 2014 from the University of Grenoble-Alpes (UGA); her PhD in Computer Science in 2000 at University Joseph Fourier (UJF), and her PhD in Literature in 2015 at University Stendhal. She obtained her Master’s Degree in Computer Science in 1997 at University Joseph Fourier; her Master’s Degree in Compared Literature in 1998 at University Stendhal, and her Computer Systems Engineering degree with a minor in Literature at Universidad de las Américas, Puebla (UDLAP).
