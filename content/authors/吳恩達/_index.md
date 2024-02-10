@@ -42,18 +42,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# - icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:test@example.org'
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hamamache Kheddouci is a full professor in Computer Science at Lyon 1 University. He obtained his "Habilitation à Diriger les Recherches" (french qualification) in Computer Science from the University of Burgundy - Dijon in 2003. He received his research Master degree (ex. DEA) and Ph.D. in Computer Science from the University of Paris XI - Orsay in 1994 and 1998, respectively. Before, in 1992, he obtained an Engineering degree in Computer Science from the National Institute of Computer Science - INI (or ESI) - Algiers.
+In 1997-1998, Prof. Kheddouci was an engineer in Computer Science at Kedros company - Paris. In 1998-1999, he was appointed as lecturer at Paris–XI University. From 1999 to 2004, he has been an associate professor in Burgundy University - Dijon. Since 2004, he joined Lyon 1 University as a professor in Computer Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He attended the following french research labs: LRI (1994-1999), LE2I (1999 - 2004), PRISMa (2004 - 2006), LIESP (2007-2010), GAMA (2010-2012) and LIRIS (2012 -... ).
+He was a visiting professor at several universities around the world including University of New South Wales (UNSW) - Sydney, University College Dublin, University of Illinois Chicago (UIC), Arizona University, Sfax University and University of Reunion Island.
